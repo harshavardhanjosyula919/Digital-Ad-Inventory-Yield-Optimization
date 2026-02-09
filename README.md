@@ -18,3 +18,43 @@ strategies.
 - **Parents Audience:** Best performing segment (92% yield rate)
 
 ## Repository Structure
+├── data/
+│   └── ad_inventory_data.csv       # 550K record dataset
+├── assets/
+│   └── yield_dashboard.png         # Executive visualization
+├── generate_data.py                # Data generation script
+├── yield_analysis.py               # Analysis & visualization
+├── sql_analysis.sql                # SQL queries
+├── STRATEGY_MEMO.md                # Executive recommendations
+└── README.md                       # Project documentation
+
+
+## Technical Stack
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **SQL:** Complex queries for inventory segmentation
+- **Analytics:** Yield optimization, revenue forecasting, trend analysis
+- **Visualization:** Executive dashboards, KPI tracking
+
+## Business Impact
+- **$4.8M** recoverable revenue identified
+- **18%** potential yield improvement
+- **25%** reduction in under-pacing incidents projected
+
+## How to Run
+1. Install requirements: `pip install -r requirements.txt`
+2. Generate data: `python generate_data.py`
+3. Run analysis: `python yield_analysis.py`
+4. View outputs in `assets/` folder
+
+## Skills Demonstrated
+✅ Digital inventory management & yield optimization  
+✅ Large dataset analysis (550K+ records)  
+✅ SQL querying & database management  
+✅ Revenue forecasting & financial modeling  
+✅ Executive stakeholder reporting  
+✅ Cross-functional collaboration (Sales, Finance, Ops)  
+
+## Contact
+Sri Harshavardhan Josyula  
+harshajosyula75@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/harsha-vardhan-josyula)
